@@ -1,1 +1,1 @@
-Hem fet un programa per saber si un nombre es primer o no
+Hem fet un parell d'exercisis que ja haviem fet amb Java però fets amb javascript
